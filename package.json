@@ -1,5 +1,5 @@
 {
-  "homepage": "https://samikshasahare31.github.io/To-Do-List",
+  "homepage": "https://samikshasahare31.github.io/To-Do-List-App",
   "name": "to-do-list-app",
   "version": "0.1.0",
   "private": true,
@@ -44,3 +44,4 @@
     "jest": "^27.5.1"
   }
 }
+
